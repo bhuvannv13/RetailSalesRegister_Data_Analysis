@@ -1,7 +1,3 @@
-Here's a **README.md** description for your project:  
-
----
-
 # **Sales Data Analysis and Visualization**  
 
 ## **Project Overview**  
