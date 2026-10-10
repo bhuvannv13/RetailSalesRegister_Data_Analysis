@@ -9,6 +9,15 @@ This project involves **data scraping, cleaning, and exploratory data analysis (
 ✅ **Exploratory Data Analysis (EDA)** – Performing statistical summaries and visualizing key insights  
 ✅ **Visualizations** – Pie charts, bar graphs, heatmaps, and violin plots for trend analysis  
 
+## **Running the notebooks**
+
+```bash
+pip install -r requirements.txt
+jupyter notebook
+```
+
+Part 1 scrapes the data from the assignment website listed at the end of this file; Part 2 cleans and analyses it.
+
 ## **Tech Stack**  
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Requests)  
 - **Jupyter Notebook** for analysis and visualization  
@@ -37,7 +46,7 @@ This project involves **data scraping, cleaning, and exploratory data analysis (
 🔹 Automate data extraction with **APIs** instead of web scraping  
 
 ## **License**  
-This project is for **educational purposes** as part of a college assignment in UCD.  
+MIT. See [LICENSE](LICENSE). Built as a UCD college assignment.  
 
 ---
 Website used for Scraping: http://mlg.ucd.ie/modules/python/assignment1/retail/index.html
